@@ -19,5 +19,5 @@ Voltify is a Python-based utility billing engine that handles automated monthly 
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YourUsername/Voltify.git](https://github.com/YourUsername/Voltify.git)
+git clone (https://github.com/Hardik-Dot-Jain/Voltify.git)
 cd Voltify
